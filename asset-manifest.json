@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/talep/static/css/main.197a2ee1.css",
-    "main.js": "/talep/static/js/main.a10772f7.js",
+    "main.js": "/talep/static/js/main.e6d683ab.js",
     "index.html": "/talep/index.html",
     "main.197a2ee1.css.map": "/talep/static/css/main.197a2ee1.css.map",
-    "main.a10772f7.js.map": "/talep/static/js/main.a10772f7.js.map"
+    "main.e6d683ab.js.map": "/talep/static/js/main.e6d683ab.js.map"
   },
   "entrypoints": [
     "static/css/main.197a2ee1.css",
-    "static/js/main.a10772f7.js"
+    "static/js/main.e6d683ab.js"
   ]
 }
